@@ -47,6 +47,7 @@ val_loss = model.history.history['val_loss']
 
 epochs = range(1, len(train_loss) + 1)
 
+#training graph
 plt.plot(epochs, train_loss, 'bo', label='Training loss')
 plt.plot(epochs, val_loss, 'b', label='Validation loss')
 plt.title('Training and validation loss')
