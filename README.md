@@ -9,6 +9,6 @@ The goal of this project was to build a neural network using Keras and Tensorflo
 To clean the data and format the FEN strings as arrays representing the board, I followed a specific process that can be seen in the accompanying Jupyter notebook. However, due to the size of the final CSV file, it was not possible to upload it to GitHub.  
   
 ## Results:  
-After training the model, I was able to achieve (placeholder) level of accuracy in predicting the evaluation of random chess positions. The project was both challenging and rewarding, and allowed me to hone my skills in machine learning, Python programming, and deep learning.
+After training the model, I was able to achieve up to 98% accuracy in predicting the evaluation of random chess positions. The project was both challenging and rewarding, and allowed me to hone my skills in machine learning, Python programming, and deep learning.
 
 Thank you for taking the time to learn about my project. If you have any questions or comments, feel free to reach out. You can find my contact information and other projects on my website, which is linked on my GitHub profile.
